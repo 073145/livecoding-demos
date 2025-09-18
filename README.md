@@ -2,7 +2,7 @@
 
 > **Um ponto de encontro para a engenharia criativa: demos de síntese de padrões visuais e sonoros, exploração de estéticas geradas por algoritmos e a subversão do código para expressão artística. Pura craft e experimentação.**
 
-Bem-vindo ao `synth-patterns-forge`\! Este repositório é um laboratório para a criação de artefatos digitais onde o código é a ferramenta, e algoritmos são o meio para forjar experiências visuais e sonoras. Aqui, desvendamos e re-imaginamos o comportamento dos sistemas para dar vida a estéticas generativas, manipulando pixels, sinais e fluxos de informação em tempo real.
+Um laboratório para a criação de artefatos digitais onde o código é a ferramenta, e algoritmos são o meio para forjar experiências visuais e sonoras. Aqui, desvendamos e re-imaginamos o comportamento dos sistemas para dar vida a estéticas generativas, manipulando pixels, sinais e fluxos de informação em tempo real.
 
 ---
 
@@ -67,7 +67,7 @@ Os demos e experimentos são organizados por tipo de saída (visual/sonoro) ou p
 
 ## ⚙️ Como Contribuir
 
-A `synth-patterns-forge` é um espaço para a criatividade e a exploração. Se você tem um "hack" algorítmico, um experimento visual/sonoro ou uma nova forma de manipular sinais:
+Este repositorio é um espaço para a criatividade e a exploração. Se você tem um "hack" algorítmico, um experimento visual/sonoro ou uma nova forma de manipular sinais:
 
 1.  Faça um fork do repositório.
 2.  Crie uma branch para sua contribuição.
