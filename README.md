@@ -1,5 +1,4 @@
 # code-forge-demos: Engenharia Criativa e Arte Algorítmica
-algorithmic art stuff
 
 > **Um ponto de encontro para a engenharia criativa: demos de síntese de padrões visuais e sonoros, exploração de estéticas geradas por algoritmos e a subversão do código para expressão artística. Pura craft e experimentação.**
 
